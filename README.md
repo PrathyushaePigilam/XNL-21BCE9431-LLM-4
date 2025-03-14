@@ -84,7 +84,7 @@ The chatbot system consists of the following components:
 ### CI/CD Pipeline
 - **Version Control**: GitHub
 - **Continuous Deployment**: GitHub Actions 
-- 
+- http://127.0.0.1:8000/docs#/Financial%20News/get_financial_news_news__get
 
 ---
 
