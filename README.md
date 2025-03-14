@@ -7,6 +7,8 @@ The **Real-Time Financial Assistant Chatbot** provides users with financial insi
 
 ## 2. System Architecture
 
+![image alt](https://github.com/PrathyushaePigilam/XNL-21BCE9431-LLM-4/blob/137501921dd28ccac09801298080aaf0671feba6/Screenshot%202025-03-15%20014828.png)
+
 ### 2.1 High-Level Overview
 The chatbot system consists of the following components:
 - **Frontend**: React-based UI for real-time user interactions.
