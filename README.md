@@ -79,8 +79,6 @@ The chatbot system consists of the following components:
 
 ## 7. Deployment & Scaling
 
-
-
 ### CI/CD Pipeline
 - **Version Control**: GitHub
 - **Continuous Deployment**: GitHub Actions 
@@ -88,14 +86,14 @@ The chatbot system consists of the following components:
 
 ---
 
-## 9. Testing & Performance Optimization
+## 8. Testing & Performance Optimization
 - **Unit Tests**: PyTest for API testing
 - **Load Testing**: Locust for high-traffic simulation
 - **Model Evaluation**: BLEU score and human evaluation for chatbot accuracy
 
 ---
 
-## 10. Future Enhancements
+## 9. Future Enhancements
 - **Voice Support**: Integrate speech-to-text for voice-based finance queries
 - **Expanded Multi-Modal Inputs**: Enable image-based query retrieval (e.g., parsing financial charts)
 - **Advanced Personalization**: AI-driven investment recommendations
